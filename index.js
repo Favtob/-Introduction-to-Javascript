@@ -1,0 +1,5 @@
+document.write("My name is Aluko Favour")
+document.write("<br>")
+document.write("I am 6 feet tall")
+document.write("<br>")
+document.write("I am from Nigeria")
